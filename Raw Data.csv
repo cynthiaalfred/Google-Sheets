@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer First Name,Customer Last Name,Sales Rep Name,City,Country,Region,Unit Price,Units Sold,Item
+BN-2011-7407039,16/01/2020,Jacob,Davies,Eleanor Blake,MumBai,INDIA,ASIA,£213.30,4441,Pen
+AZ-2011-9050313,02/04/2020,Charlie,Wilson,Johnathan Grey,SYDney,Australia,Australia,£819.59,5225,Notebook
+AZ-2011-6674300,04/03/2017,Charlie,Jones,Nathan Collins,LondON,United Kingdom,Europe,£798.72,8172,Chair
+BN-2011-2819714,31/03/2014,William,Brown,Eleanor Blake,Paris,France,Europe,£517.73,6410,Desk
+AZ-2011-617423,18/03/2023,George,Evans,Eleanor Blake,New York,USA,North America,£515.37,4825,Mouse
+AZ-2011-2918397,06/09/2020,Charlie,Evans,Nathan Collins,MeXICO City,Mexico,North America,£428.14,5773,Keyboard
+BN-2011-3248724,08/02/2014,William,Williams,Nathan Collins,Toronto,Canada,North America,£918.76,14982,File Cabinet
+AZ-2011-6712797,28/09/2024,Jacob,Roberts,Chris Morgan,Mexico City,Mexico,North America,£100.46,1845,Desk
+AZ-2011-4827146,26/06/2014,Henry,Wilson,Johnathan Grey,Paris,France,eRUrope,£242.55,8359,Printer
+AZ-2011-6439906,17/08/2016,George,Jones,Lydia Turner,Tokyo,Japan,asia,£376.81,11481,Pen
+AZ-2011-7053593,24/02/2018,Jack,Smith,Chris Morgan,Mumbai,India,Asia,£284.41,1620,File Cabinet
+AZ-2011-5702370,05/11/2022,Harry,Evans,Lydia Turner,DUBAI,UAE,Asia,£395.92,899,File Cabinet
+AZ-2011-9927716,11/09/2023,Charlie,Taylor,Eleanor Blake,Mexico City,Mexico,North America,£844.19,1907,File Cabinet
+AZ-2011-2222024,19/06/2024,James,Taylor,Chris Morgan,Sydney,Australia,Australia,£808.99,14377,Printer
+BN-2011-4913858,13/06/2017,James,Davies,Chris Morgan,Mumbai,India,Asia,£589.64,2405,Pen
+BN-2011-2807470,25/11/2018,Jacob,Jones,Nathan Collins,Mexico City,Mexico,North America,£587.47,1993,Notebook
+AZ-2011-5960662,24/01/2010,Jack,Wilson,Johnathan Grey,LONDON,United Kingdom,Europe,£941.05,2493,Pen
+AZ-2011-7675351,19/03/2021,Jack,Taylor,Lydia Turner,Toronto,Canada,North America,£888.69,6885,File Cabinet
+BN-2011-3770060,03/03/2016,Jacob,Davies,Chris Morgan,Tokyo,Japan,Asia,£342.09,14231,Printer
+AZ-2011-7419210,10/06/2020,William,Smith,Sophie Webb,London,United Kingdom,Europe,£443.37,10965,File Cabinet
+AZ-2011-1816950,08/03/2015,Oliver,Wilson,Eleanor Blake,Tokyo,Japan,Asia,£88.07,4287,Keyboard
+AZ-2011-3059419,31/10/2014,Harry,Johnson,Eleanor Blake,Paris,FranCE,Europe,£224.74,6194,Printer
+AZ-2011-5342265,19/11/2019,William,Brown,Chris Morgan,Sydney,Australia,Australia,£783.85,10732,Monitor
+AZ-2011-2002251,05/10/2014,Jacob,Evans,Sophie Webb,Toronto,CANADa,North America,£679.74,8302,Printer
+AZ-2011-5357101,01/05/2017,Thomas,Smith,Nathan Collins,Paris,France,Europe,£531.02,4385,Stapler
+AZ-2011-2245674,26/05/2020,Oliver,Evans,Eleanor Blake,Paris,FrancE,Europe,£366.97,9593,Notebook
+AZ-2011-8034411,30/07/2010,Charlie,Johnson,Eleanor Blake,Mexico City,Mexico,North America,£255.96,2060,Desk
+AZ-2011-6684426,02/09/2012,Henry,Davies,Chris Morgan,Berlin,Germany,Europe,£100.56,11171,Desk
+BN-2011-7883641,18/08/2015,Henry,Evans,Eleanor Blake,Sydney,AUSTRALIA,Australia,£173.40,7017,Stapler
+AZ-2011-4205736,03/09/2021,James,Taylor,Nathan Collins,Berlin,Germany,Europe,£946.71,6953,Notebook
+AZ-2011-5010109,24/07/2016,Jack,Roberts,Sophie Webb,Mumbai,India,Asia,£176.97,14090,Keyboard
+AZ-2011-201891,09/08/2014,George,Williams,Nathan Collins,Sydney,Australia,Australia,£308.21,1193,Keyboard
+AZ-2011-5708655,25/12/2012,William,Smith,Lydia Turner,Berlin,Germany,Europe,£36.61,4420,Keyboard
+BN-2011-6722454,26/12/2019,Jacob,Jones,Sophie Webb,Tokyo,Japan,ASIA,£229.83,8621,Pen
+BN-2011-486854,01/11/2021,Henry,Johnson,Chris Morgan,Tokyo,Japan,Asia,£682.89,10868,Pen
+AZ-2011-2825684,23/03/2018,Harry,Evans,Eleanor Blake,New York,USA,North America,£552.67,12693,Monitor
+AZ-2011-494581,05/02/2019,Henry,Smith,Sophie Webb,Paris,France,Europe,£225.92,1473,Keyboard
+AZ-2011-838467,03/05/2022,James,Brown,Nathan Collins,London,United Kingdom,Europe,£242.52,1136,Desk
+AZ-2011-4987681,03/01/2013,Charlie,Williams,Sophie Webb,Mumbai,India,Asia,£416.32,6287,Pen
+AZ-2011-4614904,10/10/2024,William,Davies,Nathan Collins,Sydney,Australia,Australia,£664.24,6182,Chair
+AZ-2011-7043718,08/08/2017,Jacob,Evans,Sophie Webb,Sydney,Australia,Australia,£43.69,544,Monitor
+AZ-2011-4696725,21/07/2012,Henry,Williams,Chris Morgan,Sydney,Australia,Australia,£477.04,322,Chair
+BN-2011-2468159,23/11/2020,Charlie,Davies,Nathan Collins,Tokyo,Japan,Asia,£30.36,44,File Cabinet
+BN-2011-9336144,07/06/2016,Jacob,Roberts,Sophie Webb,New York,USA,North America,£631.89,931,Desk
+BN-2011-7087921,22/08/2017,Thomas,Smith,Nathan Collins,Mexico City,Mexico,North America,£247.79,5857,Notebook
+AZ-2011-6835828,18/03/2018,Oliver,Jones,Johnathan Grey,Mexico City,Mexico,North America,£930.10,6779,File Cabinet
+AZ-2011-2397035,12/07/2019,James,Brown,Lydia Turner,Paris,France,Europe,£190.63,2794,Monitor
+AZ-2011-9421435,26/07/2016,James,Davies,Eleanor Blake,Dubai,UAE,Asia,£924.34,7709,Mouse
+AZ-2011-2956456,13/06/2011,Thomas,Smith,Lydia Turner,Berlin,Germany,Europe,£107.15,384,Keyboard
+AZ-2011-9107304,26/11/2017,Oliver,Smith,Sophie Webb,Toronto,Canada,North America,£175.84,8255,Desk
+AZ-2011-2606042,31/07/2019,Harry,Wilson,Johnathan Grey,London,United Kingdom,Europe,£118.88,5116,Desk
+AZ-2011-5195846,05/06/2018,Henry,Smith,Johnathan Grey,Mumbai,India,Asia,£345.24,10707,Chair
+AZ-2011-7255147,22/12/2020,Henry,Brown,Chris Morgan,Paris,France,Europe,£729.43,7459,Stapler
+AZ-2011-5676694,19/12/2022,Harry,Davies,Sophie Webb,Tokyo,Japan,Asia,£369.87,7640,Printer
+AZ-2011-819110,25/01/2023,Henry,Taylor,Lydia Turner,London,United Kingdom,Europe,£523.52,10972,Desk
+BN-2011-3032749,07/11/2017,Thomas,Jones,Eleanor Blake,Sydney,Australia,Australia,£936.89,7443,Desk
+AZ-2011-6048331,07/12/2018,James,Evans,Eleanor Blake,Mumbai,India,Asia,£669.08,1589,Desk
+BN-2011-493873,25/02/2022,Henry,Taylor,Lydia Turner,Mexico City,Mexico,North America,£141.06,12514,Mouse
+BN-2011-408191,20/04/2019,George,Roberts,Johnathan Grey,Mexico City,Mexico,North America,£280.02,14441,Printer
+BN-2011-307477,13/09/2011,Charlie,Williams,Eleanor Blake,Berlin,Germany,Europe,£156.42,8792,Desk
+AZ-2011-8122214,21/04/2022,George,Johnson,Nathan Collins,London,United Kingdom,Europe,£820.63,13936,Pen
+AZ-2011-9155070,21/05/2014,William,Roberts,Chris Morgan,Paris,France,Europe,£892.26,226,Desk
+AZ-2011-2939440,25/03/2010,Oliver,Davies,Nathan Collins,Tokyo,Japan,Asia,£391.26,98,Desk
+AZ-2011-2270958,23/01/2015,Jacob,Davies,Chris Morgan,Berlin,Germany,Europe,£915.33,3476,Keyboard
+BN-2011-555099,01/02/2013,Jacob,Davies,Nathan Collins,Berlin,Germany,Europe,£950.31,11960,Stapler
+AZ-2011-8091357,03/02/2012,Harry,Roberts,Lydia Turner,Berlin,Germany,Europe,£600.00,8670,Desk
+AZ-2011-6186921,17/03/2016,William,Taylor,Chris Morgan,Toronto,Canada,North America,£976.82,9354,Printer
+BN-2011-5307099,06/01/2019,Oliver,Brown,Sophie Webb,Dubai,UAE,Asia,£615.62,12964,Desk
+BN-2011-8574171,15/12/2011,Thomas,Williams,Lydia Turner,Mexico City,Mexico,North America,£895.11,11357,Pen
+AZ-2011-8279503,29/08/2016,James,Evans,Lydia Turner,Paris,France,Europe,£514.28,652,Notebook
+BN-2011-3728079,28/01/2018,George,Davies,Chris Morgan,Sydney,Australia,Australia,£418.72,14464,Printer
+AZ-2011-2777408,20/01/2015,Henry,Roberts,Eleanor Blake,London,United Kingdom,Europe,£422.74,8540,Keyboard
+AZ-2011-4069925,03/09/2012,Jack,Evans,Johnathan Grey,Berlin,Germany,Europe,£200.41,11605,File Cabinet
+AZ-2011-7903656,14/02/2016,Jacob,Smith,Sophie Webb,Dubai,UAE,Asia,£296.72,3205,Keyboard
+AZ-2011-8074602,04/06/2016,Jacob,Brown,Nathan Collins,Dubai,UAE,Asia,£587.97,8860,Monitor
+AZ-2011-1410648,13/08/2021,James,Davies,Sophie Webb,Mexico City,Mexico,North America,£929.12,2625,Notebook
+AZ-2011-496083,08/11/2015,Oliver,Roberts,Nathan Collins,Toronto,Canada,North America,£306.94,13778,Stapler
+AZ-2011-6969006,26/01/2010,George,Smith,Nathan Collins,Sydney,Australia,Australia,£669.86,189,Desk
+AZ-2011-5822789,22/03/2023,George,Wilson,Lydia Turner,Berlin,Germany,Europe,£659.23,4682,Mouse
+AZ-2011-7677596,27/08/2021,Thomas,Brown,Lydia Turner,Sydney,Australia,Australia,£589.13,1791,Pen
+AZ-2011-3190941,16/01/2022,Thomas,Roberts,Johnathan Grey,Mexico City,Mexico,North America,£158.63,5149,Keyboard
+AZ-2011-5422408,20/07/2013,Henry,Davies,Chris Morgan,London,United Kingdom,Europe,£738.02,5720,Mouse
+AZ-2011-9147715,02/03/2019,Thomas,Brown,Lydia Turner,Sydney,Australia,Australia,£114.17,7984,Pen
+AZ-2011-1278696,24/04/2013,Charlie,Evans,Eleanor Blake,Mexico City,Mexico,North America,£582.89,8345,Stapler
+AZ-2011-8295770,21/10/2021,Harry,Brown,Nathan Collins,Paris,France,Europe,£137.33,13830,Keyboard
+AZ-2011-3714764,17/10/2020,Charlie,Jones,Johnathan Grey,Mumbai,India,Asia,£383.43,4951,Desk
+AZ-2011-4612792,01/09/2018,Oliver,Taylor,Nathan Collins,Tokyo,Japan,Asia,£306.34,2141,Chair
+AZ-2011-7682838,08/08/2018,George,Davies,Chris Morgan,Dubai,UAE,Asia,£503.06,13138,Monitor
+AZ-2011-9700826,27/09/2021,Charlie,Brown,Johnathan Grey,Sydney,Australia,Australia,£77.06,5265,Printer
+AZ-2011-6222257,03/10/2011,George,Jones,Nathan Collins,London,United Kingdom,Europe,£807.06,733,Monitor
+AZ-2011-823697,03/08/2023,Charlie,Roberts,Sophie Webb,Sydney,Australia,Australia,£47.21,7574,Printer
+AZ-2011-5265250,19/09/2012,Harry,Jones,Nathan Collins,Mumbai,India,Asia,£232.44,10109,Printer
+BN-2011-1399750,15/11/2010,Charlie,Brown,Lydia Turner,New York,USA,North America,£493.04,9440,Mouse
+AZ-2011-254910,30/08/2021,Harry,Davies,Eleanor Blake,Mexico City,Mexico,North America,£779.55,5210,Notebook
+AZ-2011-8252363,29/11/2014,Jack,Williams,Eleanor Blake,Sydney,Australia,Australia,£75.75,7315,Mouse
+AZ-2011-1584987,27/07/2015,Jacob,Brown,Sophie Webb,Berlin,Germany,Europe,£85.48,948,Chair
+AZ-2011-4707711,01/04/2011,William,Wilson,Chris Morgan,Mexico City,Mexico,North America,£493.04,13835,Desk
+AZ-2011-7499604,07/10/2022,William,Smith,Chris Morgan,Tokyo,Japan,Asia,£460.59,1077,Keyboard
+AZ-2011-1916360,09/06/2024,Jacob,Brown,Nathan Collins,Dubai,UAE,Asia,£68.95,3310,Notebook
+AZ-2011-2169445,17/08/2010,Charlie,Davies,Johnathan Grey,Sydney,Australia,Australia,£897.26,9884,Monitor
+AZ-2011-7024596,08/10/2013,Oliver,Williams,Lydia Turner,Mumbai,India,Asia,£424.69,133,Pen
+BN-2011-7253620,25/12/2012,Thomas,Davies,Chris Morgan,Tokyo,Japan,Asia,£733.61,11168,Stapler
+AZ-2011-6314494,08/02/2024,William,Smith,Eleanor Blake,Toronto,Canada,North America,£610.64,5288,Desk
+AZ-2011-3556179,14/06/2012,Charlie,Jones,Chris Morgan,Paris,France,Europe,£68.88,9556,Keyboard
+AZ-2011-8308381,16/10/2011,Henry,Davies,Lydia Turner,Tokyo,Japan,Asia,£371.68,8449,Desk
+AZ-2011-5004051,04/04/2019,Charlie,Evans,Johnathan Grey,New York,USA,North America,£660.77,10120,Desk
+AZ-2011-9505872,16/03/2012,Jacob,Jones,Eleanor Blake,New York,USA,North America,£440.90,5277,File Cabinet
+AZ-2011-8738856,10/02/2022,Oliver,Smith,Nathan Collins,Paris,France,Europe,£138.86,7300,Printer
+BN-2011-8211228,14/03/2013,Jack,Brown,Nathan Collins,Tokyo,Japan,Asia,£176.53,4346,Monitor
+AZ-2011-5185285,25/03/2022,Jack,Wilson,Sophie Webb,Buenos Aires,Argentina,South America,£484.25,3500,Mouse
+BN-2011-9474783,26/04/2022,Thomas,Taylor,Johnathan Grey,Paris,France,Europe,£278.23,4031,Keyboard
+AZ-2011-4565223,01/01/2011,Jack,Davies,Nathan Collins,Sydney,Australia,Australia,£249.38,7927,Keyboard
+BN-2011-6425274,10/01/2010,Jack,Evans,Johnathan Grey,Berlin,Germany,Europe,£648.64,10553,Stapler
+AZ-2011-8743509,13/04/2010,Harry,Roberts,Johnathan Grey,London,United Kingdom,Europe,£548.00,8051,Desk
+BN-2011-2502895,28/05/2015,William,Smith,Nathan Collins,Dubai,UAE,Asia,£120.92,2568,Pen
+AZ-2011-8369879,25/02/2017,George,Johnson,Sophie Webb,New York,USA,North America,£41.10,7161,Pen
+AZ-2011-5463300,31/12/2020,James,Williams,Sophie Webb,Dubai,UAE,Asia,£433.98,12521,Printer
+AZ-2011-8060803,24/06/2010,Harry,Wilson,Lydia Turner,Tokyo,Japan,Asia,£367.44,11968,Printer
+BN-2011-2967562,19/01/2015,Henry,Smith,Eleanor Blake,Tokyo,Japan,Asia,£549.78,3326,Mouse
+AZ-2011-8060550,17/09/2023,James,Davies,Eleanor Blake,London,United Kingdom,Europe,£633.86,4881,Printer
+BN-2011-6893107,11/06/2014,William,Roberts,Eleanor Blake,Paris,France,Europe,£390.18,1277,Notebook
+AZ-2011-7089649,23/12/2023,Henry,Smith,Nathan Collins,Mexico City,Mexico,North America,£437.81,10394,Notebook
+AZ-2011-9409671,04/03/2016,Jack,Evans,Johnathan Grey,New York,USA,North America,£994.35,8661,Monitor
+AZ-2011-7659767,21/09/2013,James,Williams,Nathan Collins,Sydney,Australia,Australia,£567.89,738,Monitor
+AZ-2011-3089735,29/08/2010,Charlie,Smith,Eleanor Blake,Mexico City,Mexico,North America,£73.83,6673,Pen
+AZ-2011-3293357,13/12/2010,George,Johnson,Chris Morgan,Mexico City,Mexico,North America,£423.83,11824,Desk
+AZ-2011-5817638,26/02/2011,James,Williams,Johnathan Grey,London,United Kingdom,Europe,£499.80,10430,Mouse
+AZ-2011-7072417,16/07/2020,James,Wilson,Nathan Collins,Dubai,UAE,Asia,£152.40,12622,Keyboard
+AZ-2011-2762983,30/08/2017,Harry,Brown,Lydia Turner,New York,USA,North America,£499.30,8461,File Cabinet
+BN-2011-5443120,19/01/2015,Harry,Evans,Johnathan Grey,London,United Kingdom,Europe,£763.20,754,Keyboard
+AZ-2011-3885003,11/11/2011,Harry,Evans,Eleanor Blake,Sydney,Australia,Australia,£58.58,6775,Printer
+AZ-2011-107716,08/01/2011,George,Smith,Chris Morgan,Dubai,UAE,Asia,£810.56,12144,Mouse
+AZ-2011-4173505,28/08/2014,Charlie,Wilson,Chris Morgan,Mumbai,India,Asia,£217.15,10317,File Cabinet
+BN-2011-6178410,12/04/2012,Harry,Smith,Eleanor Blake,Dubai,UAE,Asia,£549.26,2539,Mouse
+AZ-2011-1546153,11/07/2012,James,Davies,Lydia Turner,Paris,France,Europe,£723.74,3409,Mouse
+AZ-2011-122598,27/05/2020,James,Smith,Eleanor Blake,London,United Kingdom,Europe,£391.91,5541,Stapler
+AZ-2011-231889,23/05/2014,Jack,Williams,Johnathan Grey,Toronto,Canada,North America,£883.12,1319,Pen
+BN-2011-7646735,03/08/2021,Charlie,Wilson,Nathan Collins,Mexico City,Mexico,North America,£763.74,13380,Monitor
+AZ-2011-3304186,09/04/2017,Henry,Williams,Chris Morgan,Toronto,Canada,North America,£911.33,254,Stapler
+AZ-2011-9598217,23/12/2016,William,Roberts,Johnathan Grey,New York,USA,North America,£40.26,10981,Keyboard
+BN-2011-1677989,30/12/2021,Oliver,Smith,Lydia Turner,Sydney,Australia,Australia,£283.09,14233,Notebook
+AZ-2011-332801,27/12/2014,Jacob,Evans,Johnathan Grey,Paris,France,Europe,£987.32,2223,Notebook
+AZ-2011-4613853,08/09/2020,James,Evans,Chris Morgan,Paris,France,Europe,£984.88,4314,Chair
+AZ-2011-6557147,01/10/2017,Oliver,Jones,Eleanor Blake,London,United Kingdom,Europe,£812.76,229,File Cabinet
+AZ-2011-804486,27/11/2024,George,Davies,Eleanor Blake,Berlin,Germany,Europe,£171.42,4378,File Cabinet
+BN-2011-5751868,05/09/2021,Oliver,Taylor,Nathan Collins,Mexico City,Mexico,North America,£79.69,9681,File Cabinet
+AZ-2011-252578,09/03/2023,Jacob,Roberts,Eleanor Blake,Paris,France,Europe,£987.20,5545,Desk
+AZ-2011-643323,19/02/2016,Charlie,Jones,Nathan Collins,Berlin,Germany,Europe,£593.39,14672,Notebook
+BN-2011-2002150,19/12/2021,Charlie,Smith,Eleanor Blake,Paris,France,Europe,£579.90,12639,Pen
+AZ-2011-5690380,02/03/2013,Henry,Roberts,Johnathan Grey,Paris,France,Europe,£860.39,6982,Notebook
+AZ-2011-1362591,19/10/2017,Charlie,Williams,Lydia Turner,Dubai,UAE,Asia,£48.70,1226,Printer
+BN-2011-7884993,25/12/2014,Jack,Johnson,Lydia Turner,Mumbai,India,Asia,£29.47,1562,Mouse
+BN-2011-5290627,17/05/2014,William,Evans,Sophie Webb,Berlin,Germany,Europe,£414.04,3983,Desk
+AZ-2011-5098375,24/02/2014,Jacob,Wilson,Chris Morgan,London,United Kingdom,Europe,£535.56,9540,Chair
+AZ-2011-8844789,19/03/2016,Oliver,Brown,Chris Morgan,Paris,France,Europe,£541.18,14811,Chair
+BN-2011-357064,27/12/2017,Harry,Evans,Lydia Turner,Mumbai,India,Asia,£864.29,137,Printer
+BN-2011-5672017,14/02/2021,Jack,Johnson,Chris Morgan,London,United Kingdom,Europe,£862.22,12393,Notebook
+AZ-2011-4159708,01/09/2012,George,Roberts,Johnathan Grey,Berlin,Germany,Europe,£330.86,6544,Monitor
+AZ-2011-1372644,28/12/2011,Harry,Roberts,Eleanor Blake,Dubai,UAE,Asia,£972.16,3163,Stapler
+AZ-2011-3114201,24/07/2013,Jacob,Johnson,Johnathan Grey,Berlin,Germany,Europe,£635.49,5939,Chair
+AZ-2011-2564570,01/12/2017,Charlie,Taylor,Nathan Collins,Paris,France,Europe,£498.83,10578,Mouse
+AZ-2011-6133674,02/07/2012,Charlie,Evans,Nathan Collins,New York,USA,North America,£803.97,1816,Desk
+AZ-2011-7804688,15/02/2015,Thomas,Brown,Johnathan Grey,Dubai,UAE,Asia,£561.72,8760,Chair
+AZ-2011-5801302,09/06/2010,Thomas,Smith,Nathan Collins,London,United Kingdom,Europe,£550.13,6277,Desk
+AZ-2011-7732593,16/11/2024,Oliver,Roberts,Chris Morgan,Mexico City,Mexico,North America,£515.64,3851,Notebook
+AZ-2011-1672552,03/07/2022,Jack,Davies,Lydia Turner,Berlin,Germany,Europe,£553.59,14888,Monitor
+AZ-2011-3348631,07/07/2018,Henry,Evans,Chris Morgan,Mexico City,Mexico,North America,£450.15,12758,Desk
+AZ-2011-9958697,13/08/2023,Harry,Johnson,Lydia Turner,Tokyo,Japan,Asia,£434.08,9489,Printer
+AZ-2011-7976569,27/03/2014,Thomas,Williams,Eleanor Blake,Berlin,Germany,Europe,£617.85,7815,File Cabinet
+AZ-2011-821395,13/05/2023,Charlie,Taylor,Lydia Turner,Mexico City,Mexico,North America,£689.89,14002,Stapler
+AZ-2011-6843566,02/09/2021,Jack,Johnson,Johnathan Grey,Mexico City,Mexico,North America,£86.14,13795,File Cabinet
+AZ-2011-6807336,29/03/2023,James,Johnson,Eleanor Blake,New York,USA,North America,£915.92,10526,Notebook
+AZ-2011-6172786,18/01/2011,Charlie,Wilson,Nathan Collins,Toronto,Canada,North America,£166.04,5566,Stapler
+BN-2011-8990099,24/01/2016,Thomas,Smith,Chris Morgan,Mexico City,Mexico,North America,£618.28,12027,Notebook
+AZ-2011-3973701,04/09/2021,George,Johnson,Johnathan Grey,Toronto,Canada,North America,£738.32,12367,Chair
+AZ-2011-5289752,25/06/2011,Oliver,Johnson,Nathan Collins,Tokyo,Japan,Asia,£237.30,2240,Printer
+BN-2011-4790136,20/06/2019,George,Taylor,Eleanor Blake,New York,USA,North America,£150.95,7351,Mouse
+BN-2011-827720,28/01/2010,Henry,Taylor,Chris Morgan,Toronto,Canada,North America,£667.78,6778,Printer
+BN-2011-7286308,22/04/2019,James,Wilson,Lydia Turner,Berlin,Germany,Europe,£747.86,5210,Mouse
+AZ-2011-2112563,10/11/2018,Harry,Taylor,Sophie Webb,Toronto,Canada,North America,£195.86,11307,Notebook
+AZ-2011-7847155,03/10/2017,Oliver,Wilson,Lydia Turner,Paris,France,Europe,£875.79,8720,Keyboard
+BN-2011-8749099,04/06/2021,Thomas,Johnson,Chris Morgan,London,United Kingdom,Europe,£196.61,10000,Mouse
+BN-2011-8234232,29/05/2010,Henry,Wilson,Eleanor Blake,Sydney,Australia,Australia,£737.18,3134,Chair
+BN-2011-1627157,25/11/2017,Henry,Williams,Sophie Webb,Dubai,UAE,Asia,£97.38,1125,Mouse
+AZ-2011-6296469,28/11/2017,Harry,Roberts,Nathan Collins,Berlin,Germany,Europe,£245.69,10572,Chair
+BN-2011-7737747,02/06/2014,Charlie,Wilson,Johnathan Grey,Tokyo,Japan,Asia,£632.54,1969,Notebook
+AZ-2011-6532640,14/11/2015,Charlie,Jones,Lydia Turner,Sydney,Australia,Australia,£952.02,2545,Chair
+AZ-2011-7005483,05/10/2024,Henry,Evans,Johnathan Grey,Berlin,Germany,Europe,£437.65,14184,Stapler
+AZ-2011-2189408,01/05/2018,Jacob,Roberts,Chris Morgan,Toronto,Canada,North America,£889.80,9867,File Cabinet
+BN-2011-815729,13/07/2015,Henry,Brown,Johnathan Grey,New York,USA,North America,£102.66,3563,Stapler
+AZ-2011-9083887,15/08/2024,William,Roberts,Eleanor Blake,Mumbai,India,Asia,£916.63,5900,Monitor
+AZ-2011-1366554,29/11/2017,Thomas,Taylor,Johnathan Grey,London,United Kingdom,Europe,£885.93,792,Pen
+AZ-2011-7326281,21/07/2018,William,Davies,Sophie Webb,Sydney,Australia,Australia,£892.51,87,Desk
+AZ-2011-3434177,03/10/2013,James,Jones,Sophie Webb,Toronto,Canada,North America,£415.44,8037,Chair
+BN-2011-5141814,29/01/2022,Henry,Brown,Lydia Turner,Mumbai,India,Asia,£436.54,11746,Desk
+AZ-2011-309750,09/02/2017,William,Taylor,Eleanor Blake,Dubai,UAE,Asia,£744.46,11033,Pen
+AZ-2011-6212291,07/05/2020,William,Jones,Nathan Collins,Paris,France,Europe,£174.35,4674,Mouse
+AZ-2011-1474073,11/10/2020,George,Jones,Lydia Turner,New York,USA,North America,£615.79,8191,Pen
+BN-2011-553410,09/03/2020,Charlie,Jones,Johnathan Grey,Mexico City,Mexico,North America,£880.45,3520,Pen
+BN-2011-5294325,19/11/2014,Jacob,Smith,Chris Morgan,Sydney,Australia,Australia,£536.93,7951,Mouse
+AZ-2011-8742773,17/11/2010,William,Davies,Nathan Collins,Toronto,Canada,North America,£976.12,825,Pen
+AZ-2011-8973571,18/11/2022,Oliver,Williams,Johnathan Grey,London,United Kingdom,Europe,£404.99,14676,File Cabinet
+AZ-2011-3247022,12/10/2017,William,Evans,Lydia Turner,Berlin,Germany,Europe,£528.98,4402,Notebook
+AZ-2011-2598415,12/03/2016,Jack,Johnson,Eleanor Blake,Berlin,Germany,Europe,£31.18,12960,File Cabinet
+AZ-2011-4835209,12/03/2021,Henry,Smith,Chris Morgan,Paris,France,Europe,£71.93,9253,Notebook
+BN-2011-602308,26/02/2018,James,Taylor,Johnathan Grey,Tokyo,Japan,Asia,£608.00,14082,Keyboard
+AZ-2011-5869323,20/09/2021,Oliver,Roberts,Lydia Turner,Tokyo,Japan,Asia,£228.33,10929,Pen
+BN-2011-6162681,04/02/2017,James,Roberts,Chris Morgan,Mexico City,Mexico,North America,£26.16,14122,Desk
+BN-2011-764592,26/04/2018,William,Smith,Eleanor Blake,Dubai,UAE,Asia,£202.82,1223,Notebook
+AZ-2011-1655349,03/04/2013,Thomas,Smith,Sophie Webb,Berlin,Germany,Europe,£170.52,9769,Notebook
+AZ-2011-2820672,24/08/2024,William,Jones,Lydia Turner,Paris,France,Europe,£272.21,9523,Stapler
+AZ-2011-1723003,28/07/2013,James,Johnson,Johnathan Grey,Toronto,Canada,North America,£646.85,1160,File Cabinet
+AZ-2011-5002447,12/08/2011,Harry,Jones,Lydia Turner,Sydney,Australia,Australia,£561.83,12075,Monitor
+AZ-2011-3515834,16/03/2017,Oliver,Wilson,Lydia Turner,New York,USA,North America,£802.74,3406,Monitor
+AZ-2011-3846849,10/10/2010,Jack,Jones,Sophie Webb,Sydney,Australia,Australia,£735.41,3511,Chair
+AZ-2011-1332474,13/03/2011,Oliver,Taylor,Johnathan Grey,Sydney,Australia,Australia,£488.26,4252,Chair
+AZ-2011-3020021,10/07/2019,Jacob,Williams,Eleanor Blake,Toronto,Canada,North America,£288.05,14735,Desk
+BN-2011-9771202,11/07/2019,Thomas,Williams,Chris Morgan,London,United Kingdom,Europe,£920.03,9146,Desk
+BN-2011-8337636,21/03/2018,James,Evans,Lydia Turner,London,United Kingdom,Europe,£505.93,14882,Notebook
+BN-2011-4249147,10/07/2013,Thomas,Johnson,Johnathan Grey,Tokyo,Japan,Asia,£428.08,7139,Desk
+AZ-2011-6122805,19/01/2018,Charlie,Evans,Nathan Collins,Tokyo,Japan,Asia,£309.07,1398,Keyboard
+BN-2011-7796258,21/10/2020,James,Wilson,Lydia Turner,Tokyo,Japan,Asia,£611.45,3765,Printer
+AZ-2011-2948812,21/04/2023,Henry,Smith,Johnathan Grey,Mexico City,Mexico,North America,£575.82,7092,Chair
+AZ-2011-7014445,04/11/2010,Jacob,Taylor,Chris Morgan,New York,USA,North America,£638.03,9927,Stapler
+AZ-2011-8121091,20/09/2015,Charlie,Jones,Chris Morgan,Berlin,Germany,Europe,£502.32,12992,Pen
+AZ-2011-8223268,12/07/2013,George,Johnson,Sophie Webb,Dubai,UAE,Asia,£621.57,608,Chair
+AZ-2011-2179552,28/01/2013,Henry,Roberts,Sophie Webb,Toronto,Canada,North America,£40.77,13514,File Cabinet
+AZ-2011-9876342,21/12/2011,William,Wilson,Lydia Turner,Sydney,Australia,Australia,£975.13,10099,Stapler
+BN-2011-9297999,17/06/2018,William,Jones,Lydia Turner,Mumbai,India,Asia,£917.78,2033,Chair
+AZ-2011-7200468,02/09/2010,Charlie,Roberts,Sophie Webb,Berlin,Germany,Europe,£376.05,8377,File Cabinet
+AZ-2011-981373,13/02/2021,Oliver,Williams,Nathan Collins,New York,USA,North America,£786.40,222,Desk
+AZ-2011-4872140,31/12/2017,Jacob,Roberts,Johnathan Grey,London,United Kingdom,Europe,£536.63,8969,Chair
+AZ-2011-3308302,06/11/2023,George,Smith,Johnathan Grey,Dubai,UAE,Asia,£564.94,8796,Monitor
+AZ-2011-2118516,28/07/2014,Jack,Roberts,Lydia Turner,Sydney,Australia,Australia,£105.22,1047,Mouse
+AZ-2011-4599404,07/02/2013,Jacob,Evans,Johnathan Grey,Sydney,Australia,Australia,£936.84,3626,Desk
+BN-2011-4708578,09/08/2017,Jack,Evans,Chris Morgan,Mexico City,Mexico,North America,£555.94,13662,Mouse
+BN-2011-28993,01/04/2017,Harry,Taylor,Lydia Turner,Mumbai,India,Asia,£811.76,12859,Mouse
+AZ-2011-1240916,17/08/2011,Jacob,Roberts,Johnathan Grey,Toronto,Canada,North America,£443.27,172,Pen
+AZ-2011-2143841,31/07/2012,James,Wilson,Sophie Webb,Berlin,Germany,Europe,£337.21,10828,Printer
+AZ-2011-2875746,07/08/2024,Henry,Johnson,Johnathan Grey,Berlin,Germany,Europe,£898.43,6455,Pen
+AZ-2011-1584049,15/06/2023,Charlie,Williams,Nathan Collins,Dubai,UAE,Asia,£133.66,8504,Chair
+AZ-2011-8788804,10/12/2024,Oliver,Smith,Johnathan Grey,Tokyo,Japan,Asia,£513.71,10572,Stapler
+AZ-2011-5917724,13/12/2017,Oliver,Wilson,Sophie Webb,Toronto,Canada,North America,£887.68,10,Stapler
+AZ-2011-1116129,18/06/2015,Harry,Taylor,Sophie Webb,Paris,France,Europe,£52.56,4416,Notebook
+BN-2011-2203231,17/11/2013,Henry,Wilson,Chris Morgan,London,United Kingdom,Europe,£810.22,13521,Keyboard
+BN-2011-8607391,05/10/2018,Thomas,Jones,Lydia Turner,New York,USA,North America,£700.67,4017,Printer
+AZ-2011-1174243,14/12/2012,Jack,Williams,Sophie Webb,Mumbai,India,Asia,£556.14,14557,Monitor
+BN-2011-1694636,08/05/2012,Henry,Roberts,Sophie Webb,London,United Kingdom,Europe,£983.10,4502,Desk
+BN-2011-4315830,10/08/2014,Jack,Smith,Johnathan Grey,Mumbai,India,Asia,£921.05,13074,Pen
+AZ-2011-4087409,09/09/2013,William,Johnson,Sophie Webb,Mexico City,Mexico,North America,£387.42,8870,Monitor
+AZ-2011-8128618,12/04/2022,Harry,Roberts,Johnathan Grey,Dubai,UAE,Asia,£910.83,2614,Pen
+AZ-2011-9350558,13/08/2022,Thomas,Jones,Eleanor Blake,Berlin,Germany,Europe,£493.24,10952,Pen
+AZ-2011-555801,19/06/2019,Henry,Williams,Sophie Webb,Toronto,Canada,North America,£681.00,13490,Keyboard
+AZ-2011-8824972,13/01/2018,Jack,Taylor,Johnathan Grey,Berlin,Germany,Europe,£782.40,8224,Notebook
+AZ-2011-9119536,03/06/2022,Jack,Davies,Eleanor Blake,London,United Kingdom,Europe,£694.47,14730,Chair
+AZ-2011-6646927,02/12/2016,James,Smith,Sophie Webb,New York,USA,North America,£870.43,800,Mouse
+AZ-2011-1335871,18/10/2011,Charlie,Davies,Lydia Turner,Toronto,Canada,North America,£195.32,9324,Mouse
+AZ-2011-4229445,04/03/2019,Harry,Wilson,Chris Morgan,Toronto,Canada,North America,£95.93,13667,Stapler
+AZ-2011-5228035,18/03/2018,Harry,Jones,Lydia Turner,Dubai,UAE,Asia,£480.44,9490,Mouse
+AZ-2011-96343,22/07/2015,James,Evans,Chris Morgan,New York,USA,North America,£525.69,7853,Mouse
+BN-2011-7723992,08/12/2019,Thomas,Taylor,Nathan Collins,Mexico City,Mexico,North America,£172.88,3626,Notebook
+AZ-2011-1253407,27/12/2015,Oliver,Roberts,Nathan Collins,Paris,France,Europe,£751.09,5632,Keyboard
+AZ-2011-6268545,02/07/2023,James,Williams,Sophie Webb,Sydney,Australia,Australia,£186.76,8108,Chair
+AZ-2011-310635,21/04/2013,William,Jones,Sophie Webb,Toronto,Canada,North America,£371.34,1792,Printer
+AZ-2011-7695869,26/12/2018,William,Taylor,Johnathan Grey,New York,USA,North America,£930.59,10359,Keyboard
+BN-2011-5228628,04/10/2016,James,Davies,Chris Morgan,Mexico City,Mexico,North America,£992.84,4044,Chair
+AZ-2011-8734686,21/10/2021,Henry,Wilson,Eleanor Blake,Sydney,Australia,Australia,£555.10,13611,Chair
+AZ-2011-6819869,15/09/2013,George,Smith,Sophie Webb,New York,USA,North America,£572.24,587,Pen
+BN-2011-2650591,04/01/2012,Charlie,Davies,Eleanor Blake,London,United Kingdom,Europe,£361.92,14673,Chair
+BN-2011-8274717,25/04/2023,Thomas,Jones,Nathan Collins,Mumbai,India,Asia,£105.33,1801,Chair
+BN-2011-3154402,29/05/2024,George,Davies,Sophie Webb,Mexico City,Mexico,North America,£967.10,242,File Cabinet
+AZ-2011-8968615,13/07/2022,William,Johnson,Nathan Collins,Mexico City,Mexico,North America,£448.61,449,Printer
+AZ-2011-9703855,01/07/2024,William,Williams,Nathan Collins,Dubai,UAE,Asia,£454.00,14130,Desk
+BN-2011-5897988,10/03/2018,James,Brown,Johnathan Grey,Sydney,Australia,Australia,£882.46,2216,Stapler
+AZ-2011-9747557,17/06/2024,James,Jones,Lydia Turner,Dubai,UAE,Asia,£536.75,2848,Stapler
+AZ-2011-9528187,20/03/2013,William,Brown,Eleanor Blake,Paris,France,Europe,£979.67,9163,Desk
+BN-2011-2779245,14/09/2017,Henry,Jones,Sophie Webb,Paris,France,Europe,£963.09,13321,Keyboard
+AZ-2011-9777525,31/10/2023,George,Wilson,Eleanor Blake,Tokyo,Japan,Asia,£605.13,5501,Chair
+AZ-2011-209146,10/03/2020,Harry,Roberts,Eleanor Blake,Berlin,Germany,Europe,£928.75,6950,File Cabinet
+AZ-2011-9153342,01/01/2022,George,Brown,Lydia Turner,Paris,France,Europe,£888.56,3220,Monitor
+AZ-2011-7162549,21/01/2017,Thomas,Jones,Eleanor Blake,New York,USA,North America,£193.04,4973,Pen
+AZ-2011-4946550,16/06/2017,Jack,Brown,Johnathan Grey,Mumbai,India,Asia,£661.33,7857,File Cabinet
+AZ-2011-7543304,28/06/2016,George,Jones,Eleanor Blake,Toronto,Canada,North America,£705.22,704,Desk
+BN-2011-9883465,20/02/2012,William,Brown,Johnathan Grey,Berlin,Germany,Europe,£161.98,7955,File Cabinet
+AZ-2011-9194903,24/01/2011,Thomas,Wilson,Nathan Collins,Mumbai,India,Asia,£409.20,8063,Keyboard
+AZ-2011-8847796,07/03/2021,Henry,Johnson,Johnathan Grey,Dubai,UAE,Asia,£496.03,3978,Mouse
+BN-2011-3243410,14/04/2012,Henry,Jones,Sophie Webb,Sydney,Australia,Australia,£780.89,13554,Chair
+BN-2011-151204,06/11/2020,Henry,Smith,Johnathan Grey,Dubai,UAE,Asia,£737.51,1341,Pen
+BN-2011-7016974,12/08/2012,James,Williams,Eleanor Blake,Dubai,UAE,Asia,£569.02,6955,Monitor
+AZ-2011-2884922,05/11/2012,George,Williams,Johnathan Grey,Toronto,Canada,North America,£175.86,14204,Monitor
+AZ-2011-635398,09/12/2021,Harry,Brown,Chris Morgan,New York,USA,North America,£61.16,1542,Notebook
+AZ-2011-2627856,08/07/2022,James,Roberts,Eleanor Blake,Berlin,Germany,Europe,£988.79,5498,Stapler
+AZ-2011-3901505,24/11/2015,William,Johnson,Chris Morgan,Sydney,Australia,Australia,£346.94,12351,Chair
+AZ-2011-177100,15/06/2020,Henry,Williams,Sophie Webb,London,United Kingdom,Europe,£294.44,3725,Keyboard
+AZ-2011-4442288,02/10/2014,William,Wilson,Chris Morgan,London,United Kingdom,Europe,£938.37,9490,Stapler
+AZ-2011-3921026,15/04/2016,Oliver,Roberts,Lydia Turner,Paris,France,Europe,£829.61,7193,File Cabinet
+BN-2011-3143758,12/08/2023,William,Evans,Lydia Turner,Toronto,Canada,North America,£615.34,11038,Stapler
+AZ-2011-7652463,06/07/2023,George,Roberts,Sophie Webb,London,United Kingdom,Europe,£906.74,9829,Pen
+AZ-2011-6447932,05/08/2022,Henry,Taylor,Johnathan Grey,Paris,France,Europe,£499.17,5419,Keyboard
+AZ-2011-5827692,25/12/2010,Jack,Wilson,Lydia Turner,Sydney,Australia,Australia,£348.72,2465,Keyboard
+AZ-2011-1260928,11/02/2015,Thomas,Wilson,Johnathan Grey,Mexico City,Mexico,North America,£959.48,13549,Mouse
+AZ-2011-5082038,03/02/2010,George,Brown,Chris Morgan,Paris,France,Europe,£379.11,8321,Pen
+BN-2011-1481332,09/06/2016,Thomas,Johnson,Eleanor Blake,Mumbai,India,Asia,£522.25,9978,File Cabinet
+AZ-2011-2389500,02/01/2010,Thomas,Johnson,Eleanor Blake,Toronto,Canada,North America,£973.66,3761,Pen
+BN-2011-8231931,27/07/2010,Jack,Evans,Johnathan Grey,Paris,France,Europe,£715.94,9785,Pen
+AZ-2011-1722024,18/08/2019,Charlie,Taylor,Chris Morgan,Dubai,UAE,Asia,£927.55,10041,Chair
+BN-2011-9985747,28/07/2019,William,Jones,Eleanor Blake,New York,USA,North America,£475.94,480,Stapler
+AZ-2011-8945919,29/02/2012,Oliver,Taylor,Eleanor Blake,Toronto,Canada,North America,£537.98,10033,Pen
+AZ-2011-1773848,04/10/2014,Jack,Jones,Nathan Collins,Tokyo,Japan,Asia,£611.56,10987,Keyboard
+AZ-2011-9520720,26/12/2024,Thomas,Taylor,Johnathan Grey,Tokyo,Japan,Asia,£594.68,13967,File Cabinet
+AZ-2011-5663696,19/05/2022,Harry,Brown,Nathan Collins,Sydney,Australia,Australia,£974.39,9007,Mouse
+AZ-2011-6053355,28/03/2014,George,Johnson,Eleanor Blake,Mumbai,India,Asia,£447.60,3907,Printer
+AZ-2011-8727445,10/11/2013,Thomas,Jones,Lydia Turner,Sydney,Australia,Australia,£274.81,4244,Pen
+AZ-2011-6011646,31/12/2020,Henry,Smith,Eleanor Blake,Tokyo,Japan,Asia,£318.77,14682,File Cabinet
+AZ-2011-800016,09/11/2019,James,Roberts,Eleanor Blake,Mexico City,Mexico,North America,£731.79,3245,Pen
+AZ-2011-597829,12/05/2019,Oliver,Evans,Eleanor Blake,Dubai,UAE,Asia,£638.21,7984,Printer
+AZ-2011-7412293,04/05/2012,Harry,Taylor,Chris Morgan,Berlin,Germany,Europe,£640.27,14839,Printer
+AZ-2011-5420037,23/05/2016,Thomas,Taylor,Chris Morgan,Tokyo,Japan,Asia,£651.73,7098,Desk
+AZ-2011-7586957,03/11/2017,Oliver,Roberts,Chris Morgan,Toronto,Canada,North America,£523.77,14463,Desk
+BN-2011-2207137,20/01/2011,Harry,Brown,Chris Morgan,Mexico City,Mexico,North America,£71.22,114,File Cabinet
+AZ-2011-2201547,22/08/2024,Thomas,Davies,Chris Morgan,Paris,France,Europe,£132.73,2310,Desk
+AZ-2011-9195433,10/08/2016,Oliver,Smith,Lydia Turner,Toronto,Canada,North America,£356.83,1524,Monitor
+BN-2011-6142692,28/01/2024,James,Brown,Lydia Turner,Mumbai,India,Asia,£506.24,1010,Printer
+AZ-2011-9806635,15/12/2015,Harry,Brown,Sophie Webb,Toronto,Canada,North America,£792.46,10343,Mouse
+AZ-2011-4743912,04/02/2021,Thomas,Davies,Eleanor Blake,Mumbai,India,Asia,£492.21,2029,Keyboard
+AZ-2011-1693949,27/06/2014,George,Evans,Lydia Turner,Berlin,Germany,Europe,£634.56,627,Pen
+AZ-2011-7849219,11/12/2013,James,Taylor,Chris Morgan,Sydney,Australia,Australia,£178.27,3688,Pen
+BN-2011-2343184,23/10/2012,Oliver,Taylor,Johnathan Grey,Tokyo,Japan,Asia,£448.79,7484,Desk
+BN-2011-5006178,16/11/2017,Henry,Evans,Chris Morgan,Berlin,Germany,Europe,£654.22,4286,Mouse
+AZ-2011-3252710,15/04/2010,William,Smith,Chris Morgan,Dubai,UAE,Asia,£817.22,2324,Chair
+BN-2011-9020794,25/04/2015,James,Davies,Lydia Turner,Berlin,Germany,Europe,£299.46,14451,Printer
+AZ-2011-9278870,28/03/2017,Jacob,Williams,Chris Morgan,London,United Kingdom,Europe,£503.89,7303,Desk
+AZ-2011-9510405,01/12/2011,Jack,Jones,Eleanor Blake,Paris,France,Europe,£287.18,3379,Mouse
+AZ-2011-2831492,25/07/2014,Charlie,Taylor,Johnathan Grey,Paris,France,Europe,£128.69,6737,Chair
+AZ-2011-3976238,23/04/2017,Henry,Brown,Chris Morgan,Tokyo,Japan,Asia,£871.87,2254,Stapler
+BN-2011-1490641,20/08/2014,Charlie,Taylor,Chris Morgan,Paris,France,Europe,£885.22,11416,Mouse
+BN-2011-326585,28/11/2014,Jacob,Brown,Johnathan Grey,Toronto,Canada,North America,£701.65,11576,Printer
+AZ-2011-1603295,17/06/2024,Thomas,Jones,Chris Morgan,Berlin,Germany,Europe,£842.74,1877,File Cabinet
+BN-2011-743949,23/04/2010,George,Roberts,Eleanor Blake,New York,USA,North America,£175.33,1363,File Cabinet
+AZ-2011-4432302,23/05/2020,Charlie,Evans,Johnathan Grey,Sydney,Australia,Australia,£958.29,802,Desk
+AZ-2011-1362199,21/01/2023,William,Johnson,Chris Morgan,Mumbai,India,Asia,£619.38,10845,Monitor
+BN-2011-5036253,13/11/2017,Charlie,Roberts,Nathan Collins,Toronto,Canada,North America,£15.04,11311,Desk
+AZ-2011-5148757,09/03/2010,James,Jones,Eleanor Blake,Berlin,Germany,Europe,£389.32,14990,Stapler
+AZ-2011-1029887,19/11/2019,Henry,Taylor,Lydia Turner,Sydney,Australia,Australia,£126.21,12423,Chair
+AZ-2011-1680940,10/12/2024,Jack,Roberts,Chris Morgan,Dubai,UAE,Asia,£680.11,2073,Notebook
+AZ-2011-5466756,26/09/2022,Thomas,Williams,Chris Morgan,Mumbai,India,Asia,£181.29,2250,Keyboard
+AZ-2011-882043,23/08/2014,Jack,Brown,Lydia Turner,Paris,France,Europe,£509.29,10289,Chair
+AZ-2011-7833524,30/09/2013,Harry,Roberts,Chris Morgan,London,United Kingdom,Europe,£821.80,7165,Desk
+AZ-2011-65889,01/01/2013,Jack,Johnson,Johnathan Grey,Berlin,Germany,Europe,£288.66,4064,Stapler
+AZ-2011-2148580,26/03/2016,George,Williams,Eleanor Blake,New York,USA,North America,£914.18,5448,Printer
+AZ-2011-1536006,10/07/2014,William,Roberts,Lydia Turner,New York,USA,North America,£572.06,1809,Monitor
+BN-2011-3572647,29/08/2018,Jack,Taylor,Chris Morgan,Berlin,Germany,Europe,£245.94,8597,Mouse
+AZ-2011-8761469,19/12/2024,Harry,Williams,Lydia Turner,Berlin,Germany,Europe,£117.54,9554,Monitor
+AZ-2011-8748429,09/09/2017,George,Taylor,Eleanor Blake,Dubai,UAE,Asia,£634.62,9301,Stapler
+AZ-2011-7007630,20/12/2024,Harry,Roberts,Johnathan Grey,London,United Kingdom,Europe,£766.61,11835,Chair
+AZ-2011-5097391,17/12/2021,James,Roberts,Sophie Webb,Toronto,Canada,North America,£927.46,14467,Pen
+AZ-2011-8072611,07/12/2011,Jacob,Smith,Nathan Collins,London,United Kingdom,Europe,£826.23,896,File Cabinet
+AZ-2011-6288321,02/10/2011,George,Johnson,Sophie Webb,Toronto,Canada,North America,£642.51,6209,Pen
+BN-2011-4396152,28/03/2014,Oliver,Johnson,Eleanor Blake,Tokyo,Japan,Asia,£430.56,755,Monitor
+AZ-2011-4764378,23/07/2020,George,Smith,Sophie Webb,Mexico City,Mexico,North America,£865.24,14523,File Cabinet
+AZ-2011-130330,17/01/2016,Thomas,Williams,Eleanor Blake,Tokyo,Japan,Asia,£152.48,7981,Notebook
+AZ-2011-3117259,26/06/2019,Jack,Wilson,Johnathan Grey,Tokyo,Japan,Asia,£819.70,7182,Pen
+AZ-2011-6535299,13/05/2012,Charlie,Johnson,Johnathan Grey,New York,USA,North America,£534.05,7276,Printer
+AZ-2011-7868957,27/02/2014,Charlie,Brown,Chris Morgan,Tokyo,Japan,Asia,£549.04,11628,Monitor
+AZ-2011-3223139,12/10/2024,Oliver,Johnson,Johnathan Grey,London,United Kingdom,Europe,£50.13,13564,Chair
+AZ-2011-3182961,15/10/2011,Thomas,Johnson,Chris Morgan,Mexico City,Mexico,North America,£56.83,8045,Keyboard
+AZ-2011-3674097,12/12/2012,James,Taylor,Eleanor Blake,London,United Kingdom,Europe,£845.82,13305,Chair
+AZ-2011-5517169,01/07/2010,Harry,Smith,Sophie Webb,Mumbai,India,Asia,£957.67,10841,Keyboard
+AZ-2011-1916555,05/12/2020,Jack,Jones,Lydia Turner,London,United Kingdom,Europe,£65.09,7835,Keyboard
+AZ-2011-3227418,25/02/2020,Charlie,Smith,Lydia Turner,Mumbai,India,Asia,£427.02,9570,Pen
+AZ-2011-5482172,10/01/2024,George,Wilson,Eleanor Blake,Toronto,Canada,North America,£896.15,7631,Monitor
+AZ-2011-4802355,10/02/2023,William,Smith,Johnathan Grey,Mumbai,India,Asia,£221.74,13166,Keyboard
+AZ-2011-1499597,29/01/2021,Oliver,Brown,Chris Morgan,Paris,France,Europe,£443.00,13160,Mouse
+AZ-2011-5059692,28/08/2013,Henry,Williams,Johnathan Grey,Toronto,Canada,North America,£868.64,1329,Printer
+AZ-2011-5707449,11/04/2013,George,Taylor,Sophie Webb,Paris,France,Europe,£289.05,13013,Chair
+AZ-2011-6919505,17/01/2022,Charlie,Williams,Sophie Webb,Toronto,Canada,North America,£327.22,13196,Pen
+AZ-2011-5526022,14/10/2018,Oliver,Jones,Chris Morgan,London,United Kingdom,Europe,£370.77,7140,Mouse
+AZ-2011-2273790,29/07/2016,William,Roberts,Nathan Collins,Paris,France,Europe,£850.26,9811,Chair
+AZ-2011-2750871,10/11/2015,Oliver,Evans,Eleanor Blake,Toronto,Canada,North America,£124.38,11438,Desk
+AZ-2011-8338326,30/06/2012,Charlie,Williams,Nathan Collins,London,United Kingdom,Europe,£443.70,9935,Stapler
+AZ-2011-8207490,25/04/2014,Jacob,Evans,Nathan Collins,Sydney,Australia,Australia,£752.93,9393,Mouse
+AZ-2011-7845997,03/06/2021,Jacob,Williams,Eleanor Blake,Tokyo,Japan,Asia,£492.03,748,Keyboard
+BN-2011-377186,04/11/2024,James,Davies,Lydia Turner,Toronto,Canada,North America,£400.20,12629,Desk
+AZ-2011-7944653,29/12/2015,Henry,Johnson,Chris Morgan,Sydney,Australia,Australia,£512.87,3984,Desk
+AZ-2011-1902971,03/05/2020,James,Brown,Nathan Collins,Sydney,Australia,Australia,£103.40,9374,Chair
+AZ-2011-9715464,12/01/2012,Thomas,Jones,Lydia Turner,Sydney,Australia,Australia,£977.81,9889,Desk
+AZ-2011-7732849,13/08/2022,Harry,Taylor,Nathan Collins,Tokyo,Japan,Asia,£936.71,9138,File Cabinet
+AZ-2011-921935,07/10/2011,Charlie,Johnson,Nathan Collins,Tokyo,Japan,Asia,£257.16,5175,Monitor
+AZ-2011-9316144,27/08/2017,Thomas,Davies,Eleanor Blake,Dubai,UAE,Asia,£433.20,5365,Mouse
+AZ-2011-7213826,18/02/2012,James,Johnson,Nathan Collins,Sydney,Australia,Australia,£153.63,6526,Keyboard
+AZ-2011-9357982,08/07/2017,Jacob,Taylor,Lydia Turner,Mumbai,India,Asia,£45.09,6118,Mouse
+AZ-2011-9172584,09/02/2023,Oliver,Brown,Lydia Turner,Paris,France,Europe,£391.67,5029,Pen
+AZ-2011-8275005,23/03/2023,Charlie,Williams,Sophie Webb,Mumbai,India,Asia,£360.22,11278,File Cabinet
+AZ-2011-2851167,23/05/2010,George,Williams,Johnathan Grey,Mumbai,India,Asia,£728.26,13206,File Cabinet
+BN-2011-2476139,15/08/2024,Thomas,Evans,Johnathan Grey,Toronto,Canada,North America,£377.31,8105,Pen
+AZ-2011-2369759,29/05/2011,Charlie,Davies,Chris Morgan,Tokyo,Japan,Asia,£225.44,4170,Stapler
+AZ-2011-5965584,24/11/2018,Thomas,Williams,Nathan Collins,Toronto,Canada,North America,£513.80,11130,Printer
+AZ-2011-7873401,18/06/2011,Charlie,Evans,Chris Morgan,Berlin,Germany,Europe,£851.52,11557,File Cabinet
+BN-2011-74934,08/04/2014,James,Wilson,Sophie Webb,Dubai,UAE,Asia,£876.17,10529,Notebook
+BN-2011-1246931,16/12/2022,Harry,Jones,Sophie Webb,Paris,France,Europe,£199.67,8181,Monitor
+AZ-2011-8032051,21/07/2010,George,Smith,Chris Morgan,Berlin,Germany,Europe,£15.44,1267,Monitor
+AZ-2011-145488,18/07/2019,Henry,Taylor,Chris Morgan,Mexico City,Mexico,North America,£790.27,8557,Keyboard
+AZ-2011-6634822,19/04/2020,James,Brown,Nathan Collins,Mumbai,India,Asia,£598.02,4463,Pen
+BN-2011-980083,19/02/2011,Oliver,Johnson,Lydia Turner,New York,USA,North America,£734.01,4618,Monitor
+AZ-2011-1645475,01/05/2017,Oliver,Johnson,Chris Morgan,Dubai,UAE,Asia,£888.77,4775,Desk
+AZ-2011-8007862,22/02/2020,George,Jones,Eleanor Blake,Sydney,Australia,Australia,£110.35,11121,Stapler
+AZ-2011-9167855,27/11/2022,Harry,Roberts,Johnathan Grey,Tokyo,Japan,Asia,£69.11,11039,Desk
+AZ-2011-5471262,30/10/2011,Harry,Johnson,Lydia Turner,Berlin,Germany,Europe,£891.06,5647,Keyboard
+BN-2011-2986565,01/04/2016,Henry,Jones,Nathan Collins,Dubai,UAE,Asia,£523.20,12285,Notebook
+AZ-2011-7181024,02/07/2011,William,Evans,Sophie Webb,Dubai,UAE,Asia,£264.51,2118,Chair
+AZ-2011-2748688,24/06/2016,William,Jones,Eleanor Blake,Dubai,UAE,Asia,£722.95,6383,Printer
+BN-2011-251096,06/05/2016,Harry,Johnson,Eleanor Blake,Berlin,Germany,Europe,£772.78,4581,File Cabinet
+BN-2011-7963759,20/11/2019,Henry,Smith,Lydia Turner,Paris,France,Europe,£594.23,5813,Desk
+AZ-2011-2847355,15/11/2016,Jacob,Jones,Sophie Webb,Paris,France,Europe,£531.27,2674,Printer
+AZ-2011-5040391,17/03/2020,George,Wilson,Johnathan Grey,Mumbai,India,Asia,£205.07,13631,Desk
+AZ-2011-2536125,28/08/2023,Oliver,Brown,Lydia Turner,Berlin,Germany,Europe,£370.02,3676,Monitor
+AZ-2011-2223205,22/12/2015,Jack,Davies,Eleanor Blake,Mexico City,Mexico,North America,£195.75,6878,Desk
+AZ-2011-3535148,09/04/2013,Henry,Taylor,Sophie Webb,London,United Kingdom,Europe,£820.12,6748,Chair
+BN-2011-1973226,19/02/2020,Charlie,Evans,Johnathan Grey,Mexico City,Mexico,North America,£135.08,1930,Stapler
+AZ-2011-4704797,13/12/2018,Harry,Davies,Nathan Collins,Mexico City,Mexico,North America,£496.82,1204,Monitor
+AZ-2011-3930237,11/10/2023,Harry,Evans,Eleanor Blake,New York,USA,North America,£206.24,126,Chair
+AZ-2011-7404693,12/12/2016,William,Smith,Chris Morgan,Paris,France,Europe,£668.40,10579,File Cabinet
+AZ-2011-512368,08/11/2011,Jacob,Brown,Lydia Turner,New York,USA,North America,£168.28,5491,Printer
+AZ-2011-8709949,06/08/2018,William,Jones,Sophie Webb,New York,USA,North America,£759.54,925,Notebook
+AZ-2011-6296214,13/04/2010,Jack,Williams,Chris Morgan,Toronto,Canada,North America,£635.09,9630,Keyboard
+AZ-2011-3213049,30/03/2012,William,Wilson,Sophie Webb,London,United Kingdom,Europe,£984.13,14998,Stapler
+AZ-2011-8164175,18/09/2012,Oliver,Johnson,Nathan Collins,London,United Kingdom,Europe,£301.32,4903,Notebook
+AZ-2011-1322840,17/09/2016,Jacob,Roberts,Chris Morgan,Paris,France,Europe,£461.87,11671,Desk
+BN-2011-7569474,28/03/2011,Harry,Wilson,Chris Morgan,Dubai,UAE,Asia,£370.32,7119,File Cabinet
+BN-2011-4950607,22/02/2018,James,Smith,Eleanor Blake,Toronto,Canada,North America,£901.67,12661,Stapler
+AZ-2011-9722198,12/05/2020,Jacob,Roberts,Eleanor Blake,Mumbai,India,Asia,£97.93,12,Chair
+AZ-2011-3937280,11/06/2021,Oliver,Davies,Lydia Turner,Mumbai,India,Asia,£125.64,14121,Stapler
+BN-2011-8431343,05/02/2020,James,Brown,Lydia Turner,Mexico City,Mexico,North America,£757.99,12162,Keyboard
+BN-2011-2113749,06/09/2023,Thomas,Wilson,Lydia Turner,Mumbai,India,Asia,£88.07,6145,Keyboard
+AZ-2011-5263190,03/02/2016,James,Smith,Eleanor Blake,New York,USA,North America,£639.82,11177,Printer
+AZ-2011-8906544,24/08/2023,William,Wilson,Lydia Turner,London,United Kingdom,Europe,£636.20,13162,Chair
+AZ-2011-8361446,14/07/2017,Henry,Evans,Eleanor Blake,Mexico City,Mexico,North America,£556.06,6977,Stapler
+BN-2011-4718947,02/06/2012,Jack,Jones,Johnathan Grey,Tokyo,Japan,Asia,£617.58,14023,Stapler
+BN-2011-6588034,07/10/2023,Henry,Jones,Johnathan Grey,Sydney,Australia,Australia,£204.79,10869,Notebook
+AZ-2011-1229073,06/02/2017,Thomas,Jones,Eleanor Blake,Sydney,Australia,Australia,£60.41,6246,File Cabinet
+AZ-2011-5608865,31/01/2011,Charlie,Jones,Eleanor Blake,Tokyo,Japan,Asia,£841.21,9549,Stapler
+AZ-2011-2787690,02/02/2014,Thomas,Jones,Nathan Collins,Mumbai,India,Asia,£418.94,5543,Notebook
+AZ-2011-9995644,04/11/2017,Oliver,Jones,Chris Morgan,Tokyo,Japan,Asia,£949.54,10672,Monitor
+BN-2011-7176889,31/12/2020,William,Smith,Chris Morgan,New York,USA,North America,£753.44,210,Stapler
+AZ-2011-734782,24/03/2011,Jacob,Smith,Sophie Webb,Tokyo,Japan,Asia,£747.48,13065,Chair
+AZ-2011-897579,10/06/2019,William,Williams,Sophie Webb,New York,USA,North America,£250.81,10388,Printer
+AZ-2011-1331897,18/10/2024,William,Jones,Sophie Webb,Mumbai,India,Asia,£719.49,2899,Pen
+AZ-2011-5265175,06/08/2021,William,Wilson,Johnathan Grey,Paris,France,Europe,£598.37,6222,Desk
+BN-2011-4861178,14/02/2014,Harry,Evans,Chris Morgan,Dubai,UAE,Asia,£880.59,7344,File Cabinet
+AZ-2011-9146320,08/09/2019,Jack,Evans,Johnathan Grey,Toronto,Canada,North America,£370.12,9691,Notebook
+AZ-2011-1445249,06/04/2024,Henry,Williams,Eleanor Blake,Tokyo,Japan,Asia,£71.13,4136,Stapler
+AZ-2011-5437243,18/11/2013,Harry,Taylor,Chris Morgan,Mexico City,Mexico,North America,£48.78,13079,Monitor
+AZ-2011-5313166,08/09/2022,Oliver,Roberts,Nathan Collins,Mexico City,Mexico,North America,£299.16,1272,Desk
+AZ-2011-8408139,28/03/2012,Harry,Brown,Chris Morgan,Tokyo,Japan,Asia,£218.87,2839,Desk
+AZ-2011-3755505,18/02/2019,James,Brown,Lydia Turner,London,United Kingdom,Europe,£23.99,13632,Monitor
+AZ-2011-5721905,08/08/2013,James,Taylor,Nathan Collins,Mumbai,India,Asia,£229.01,2761,Printer
+AZ-2011-1137571,13/10/2023,Henry,Johnson,Nathan Collins,Tokyo,Japan,Asia,£901.05,4119,Stapler
+AZ-2011-1868249,03/01/2017,Oliver,Evans,Nathan Collins,Berlin,Germany,Europe,£670.87,10870,Printer
+BN-2011-2505496,18/09/2016,Charlie,Davies,Eleanor Blake,London,United Kingdom,Europe,£612.96,9725,Keyboard
+BN-2011-3405497,19/12/2012,Jack,Brown,Lydia Turner,London,United Kingdom,Europe,£933.94,9428,File Cabinet
+AZ-2011-9883921,27/01/2020,William,Davies,Sophie Webb,Paris,France,Europe,£125.43,2129,Stapler
+AZ-2011-4951642,11/11/2021,James,Brown,Sophie Webb,Berlin,Germany,Europe,£144.39,7340,File Cabinet
+AZ-2011-8227978,22/09/2017,Oliver,Smith,Chris Morgan,Mumbai,India,Asia,£351.56,6955,Stapler
+AZ-2011-1484679,12/11/2015,Jacob,Davies,Chris Morgan,Dubai,UAE,Asia,£445.33,364,Chair
+AZ-2011-257509,22/10/2020,Jacob,Jones,Sophie Webb,Mexico City,Mexico,North America,£27.63,10174,Chair
+AZ-2011-8465032,07/12/2024,Oliver,Jones,Chris Morgan,Paris,France,Europe,£801.69,8908,Stapler
+AZ-2011-1279238,18/11/2016,Henry,Evans,Eleanor Blake,Tokyo,Japan,Asia,£923.31,8870,File Cabinet
+AZ-2011-7694862,20/04/2014,Oliver,Williams,Sophie Webb,Mumbai,India,Asia,£265.53,10335,Keyboard
+BN-2011-2762940,25/06/2020,James,Davies,Johnathan Grey,Dubai,UAE,Asia,£412.55,9225,Mouse
+AZ-2011-1087704,13/02/2022,Jack,Davies,Eleanor Blake,New York,USA,North America,£46.40,1870,Chair
+AZ-2011-578089,14/12/2013,Jacob,Williams,Johnathan Grey,Mumbai,India,Asia,£859.66,7683,Chair
+AZ-2011-6765105,04/08/2011,James,Evans,Chris Morgan,Dubai,UAE,Asia,£443.59,8003,Stapler
+BN-2011-801002,15/08/2015,Henry,Wilson,Chris Morgan,Tokyo,Japan,Asia,£848.03,4927,Stapler
+BN-2011-6498909,04/03/2013,Henry,Brown,Johnathan Grey,Mexico City,Mexico,North America,£103.14,2346,Mouse
+BN-2011-4029264,22/10/2011,Harry,Davies,Chris Morgan,Mexico City,Mexico,North America,£231.72,14197,Keyboard
+AZ-2011-5376119,20/02/2022,Jack,Roberts,Nathan Collins,Toronto,Canada,North America,£854.72,11582,Notebook
+AZ-2011-9164512,03/02/2011,James,Taylor,Nathan Collins,Sydney,Australia,Australia,£669.60,12621,File Cabinet
+AZ-2011-3810756,31/07/2012,Jack,Roberts,Eleanor Blake,Mumbai,India,Asia,£536.99,8879,Desk
+AZ-2011-259939,05/09/2022,Charlie,Taylor,Nathan Collins,Paris,France,Europe,£732.89,7323,Stapler
+AZ-2011-7534020,25/02/2011,Harry,Jones,Chris Morgan,Sydney,Australia,Australia,£796.97,8799,Keyboard
+AZ-2011-4818219,24/11/2019,Thomas,Evans,Chris Morgan,Sydney,Australia,Australia,£901.20,5034,Stapler
+AZ-2011-839331,09/01/2017,Oliver,Davies,Eleanor Blake,Mumbai,India,Asia,£652.85,4950,Monitor
+AZ-2011-176674,08/04/2022,Thomas,Smith,Nathan Collins,London,United Kingdom,Europe,£652.99,1427,File Cabinet
+AZ-2011-7159051,25/04/2015,Harry,Jones,Sophie Webb,Mumbai,India,Asia,£391.09,2298,Notebook
+AZ-2011-9992253,26/06/2021,Henry,Brown,Chris Morgan,Mumbai,India,Asia,£390.15,7422,Pen
+AZ-2011-3127133,22/12/2019,Henry,Jones,Lydia Turner,Paris,France,Europe,£670.00,154,Desk
+AZ-2011-3004709,09/04/2010,Henry,Roberts,Sophie Webb,New York,USA,North America,£145.32,11677,Chair
+BN-2011-1950255,21/11/2022,Jack,Davies,Eleanor Blake,Dubai,UAE,Asia,£326.25,12034,Chair
+AZ-2011-2523831,03/08/2015,Harry,Johnson,Sophie Webb,Berlin,Germany,Europe,£915.28,2179,Desk
+AZ-2011-5113507,23/04/2012,Henry,Jones,Sophie Webb,Paris,France,Europe,£256.82,3572,Notebook
+AZ-2011-5492852,10/08/2016,James,Brown,Chris Morgan,New York,USA,North America,£800.29,13853,Desk
+AZ-2011-7643452,26/12/2012,Oliver,Johnson,Eleanor Blake,Sydney,Australia,Australia,£82.24,5742,Pen
+AZ-2011-2459767,05/05/2018,Jacob,Johnson,Nathan Collins,Mexico City,Mexico,North America,£512.22,8480,Monitor
+AZ-2011-3828424,23/02/2024,Jacob,Jones,Nathan Collins,London,United Kingdom,Europe,£185.62,4126,Notebook
+AZ-2011-2202582,17/08/2012,Harry,Smith,Nathan Collins,Sydney,Australia,Australia,£491.22,13037,Pen
+AZ-2011-3640757,02/05/2023,Henry,Davies,Nathan Collins,Dubai,UAE,Asia,£155.69,13246,Monitor
+BN-2011-3102464,02/08/2011,Oliver,Roberts,Chris Morgan,Toronto,Canada,North America,£528.21,13401,Stapler
+AZ-2011-2669941,15/11/2018,Jack,Taylor,Nathan Collins,London,United Kingdom,Europe,£551.61,14835,Stapler
+AZ-2011-2859436,23/09/2016,James,Johnson,Johnathan Grey,Paris,France,Europe,£23.63,9855,Keyboard
+AZ-2011-3958316,19/07/2018,Henry,Williams,Nathan Collins,Mumbai,India,Asia,£625.97,9895,Keyboard
