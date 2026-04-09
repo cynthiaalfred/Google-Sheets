@@ -1,4 +1,4 @@
-# Google-Sheets
+# Google Sheets Project
  Basic Data Cleaning &amp; Feature Engineering
  
 # In this project, the following steps were used to clean and prepare the data:
@@ -11,3 +11,11 @@
 - Split columns into separate fields where needed
 - Extracted date into day, month, and year
 - Standardised text using capital case and lower case
+
+# BEFORE
+
+![Before](https://github.com/cynthiaalfred/Google-Sheets/blob/main/RAW%20DATA%20-%20Screenshot.png)
+
+# AFTER
+
+![After](https://github.com/cynthiaalfred/Google-Sheets/blob/main/Cleaned%20Data%20-%20Screenshot.png)
