@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cynthiaalfred) 
+
 # Google Sheets Project
  Basic Data Cleaning &amp; Feature Engineering
  
