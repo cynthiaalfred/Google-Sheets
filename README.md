@@ -1,7 +1,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cynthiaalfred) 
 
 # Google Sheets Project
- Basic Data Cleaning &amp; Feature Engineering
+ Basic Data Cleaning
  
 # In this project, the following steps were used to clean and prepare the data:
 
@@ -14,10 +14,10 @@
 - Extracted date into day, month, and year
 - Standardised text using capital case and lower case
 
-# BEFORE
+# Raw Data
 
 ![Before](https://github.com/cynthiaalfred/Google-Sheets/blob/main/RAW%20DATA%20-%20Screenshot.png)
 
-# AFTER
+# Cleaned Data
 
 ![After](https://github.com/cynthiaalfred/Google-Sheets/blob/main/Cleaned%20Data%20-%20Screenshot.png)
