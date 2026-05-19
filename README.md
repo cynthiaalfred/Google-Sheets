@@ -1,7 +1,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cynthiaalfred) 
 
 # Google Sheets Project
- Basic Data Cleaning
+ Basic Data Cleaning & Feature Engineering
  
 # In this project, the following steps were used to clean and prepare the data:
 
